@@ -1,0 +1,42 @@
+c:\users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\bin\Debug\CHESS_G.exe
+c:\users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\bin\Debug\CHESS_G.pdb
+c:\users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.Form1.resources
+c:\users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.Properties.Resources.resources
+c:\users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.exe
+c:\users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.pdb
+c:\users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.Form2.resources
+C:\Users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\bin\Debug\CHESS_G.exe.manifest
+C:\Users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\bin\Debug\CHESS_G.application
+C:\Users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.exe.manifest
+C:\Users\zaeem\documents\visual studio 2010\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.application
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.exe
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.pdb
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\bin\Debug\CHESS_G.exe.manifest
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\bin\Debug\CHESS_G.application
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\bin\Debug\CHESS_G.exe
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\bin\Debug\CHESS_G.pdb
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.Form1.resources
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.Form2.resources
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.Properties.Resources.resources
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.exe.manifest
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.application
+E:\Project of to write in cd\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.exe
+E:\Project of to write in cd\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.pdb
+E:\Project of to write in cd\CHESS_G\CHESS_G\bin\Debug\CHESS_G.exe.manifest
+E:\Project of to write in cd\CHESS_G\CHESS_G\bin\Debug\CHESS_G.application
+E:\Project of to write in cd\CHESS_G\CHESS_G\bin\Debug\CHESS_G.exe
+E:\Project of to write in cd\CHESS_G\CHESS_G\bin\Debug\CHESS_G.pdb
+E:\Project of to write in cd\CHESS_G\CHESS_G\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project of to write in cd\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.Form1.resources
+E:\Project of to write in cd\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.Form2.resources
+E:\Project of to write in cd\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.Properties.Resources.resources
+E:\Project of to write in cd\CHESS_G\CHESS_G\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project of to write in cd\CHESS_G\CHESS_G\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project of to write in cd\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.exe.manifest
+E:\Project of to write in cd\CHESS_G\CHESS_G\obj\x86\Debug\CHESS_G.application
